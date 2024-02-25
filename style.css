@@ -1,0 +1,16 @@
+body{
+
+    background: #2b2b2b;
+}
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 250px;
+    text-align: center;
+    background-image: url(./Flag_of_Kurdistan.png);
+    background-position: center;
+    background-clip: text;
+    color: transparent;
+    border-top: 3px red dashed;
+    border-bottom: 3px #2f792f dashed;
+    border-radius: 30px;
+}
